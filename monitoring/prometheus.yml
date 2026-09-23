@@ -1,1 +1,2 @@
-global: { scrape_interval: 15s }
+global:
+  scrape_interval: 15s
