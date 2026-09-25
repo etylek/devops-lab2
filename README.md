@@ -13,4 +13,5 @@ This repository manages cloud infrastructure, container deployments, and CI/CD p
 
 ## Contact
 - Maintainer: Tilek
-- Email: devops@gmail.com
+- Email: devops@gmail.com/support@gmail.com
+
